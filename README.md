@@ -7,4 +7,7 @@ This is the 1983 Commodore 64 game Matrix by Jeff Minter.
 
 You can play it in your browser at [https://matrix.xyz].
 
+(Ctrl key is 'Fire', Arrow Keys to move.)
+
+
 [https://matrix.xyz]: https://mwenge.github.io/matrix.xyz
